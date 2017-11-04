@@ -19,5 +19,8 @@
   "homepage": "https://github.com/lllllinli/exchange-rate-fake-server#readme",
   "dependencies": {
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "opn-cli": "^3.1.0"
   }
 }
